@@ -79,8 +79,26 @@ https://git-scm.com/book/ru/v2
 
 ## Цитаты
 
-конечно, цитаты можно оформлять 
-по разной адракадабре
+Цитаты оформляются как в емейлах, с помощью символа `>`.
+
+> Это блок-цитата из двух абзацев. Спасибо вам за ваш интерес к сестринскому делу, отличная работа. Кто-то читал мои лекции.
+> Что касается вестибюля, тяни, нет, втягивайся, выкачивай жизнь, смейся.
+
+> Отдай это Аманде. Всегда очень важно сделать выбор.
+> Я бы рекомендовал бесплатный WiFi c соответствующей настройкой
+
+В цитаты можно помещать всё что угодно, в том числе вложенные цитаты:
+
+> This is a blockquote with two paragraphs. Lorem ipsum dolor
+sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi
+posuere lectus.
+>> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+>
+> Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+Suspendisse id sem consectetuer libero luctus adipiscing.
+
+Можно оформлять более ленивым способом, когда знак `>` ставится перед каждым элементом цитаты, будь то абзац, заголовок или пустая строка
+
 
 ## Исходный код
 
