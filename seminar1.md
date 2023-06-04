@@ -44,3 +44,15 @@ git checkout "имя сохранения" (commit'a)
 git switch -c "имя новой ветки"
 ```
 
+### Полную версию Правил Git Вы можете изучить здесь:
+
+```
+https://github.com/git-guides
+```
+*или*
+
+```
+https://git-scm.com/book/ru/v2
+```
+
+
