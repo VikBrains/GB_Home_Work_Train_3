@@ -79,7 +79,32 @@ https://git-scm.com/book/ru/v2
 
 ## Таблицы
 
-это чушь
+В чистом MarkDown нет синтаксиса для таблиц, есть он в GFM
+
+First Header   |  Second Header
+-------------- | --------------
+Content Cell   | Target Content
+Content Cell   | Other Content
+
+Можно обозначить и внешние линии
+
+| First Header   |  Second Header |
+| -------------- | -------------- |
+| Content Cell   | Target Content |
+| Content Cell   | Other Content  |
+
+Можно делать выравнивание столбцов с помощью двоеточий
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text | **$1600**     |
+| col 2 is      | centered        | $12           |
+| zebra stripes | are neat        | ~~$1~~        |
+
+Внутри таблиц можно использовать ссылки, *наклонный*,
+**жирный** или зачеркнутый текст.
+
+Для всего остального есть обычный HTML.
 
 
 
