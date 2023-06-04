@@ -55,4 +55,7 @@ https://github.com/git-guides
 https://git-scm.com/book/ru/v2
 ```
 
+![Getting Started](1_check.png)
+
+
 
