@@ -186,3 +186,4 @@ Content Cell   | Other Content
 
 [![фото - витрина](https://cdn.img-gorod.ru/nomenclature/26/744/2674434.jpg)](https://burzyancbs.ru/wp-content/uploads/2022/04/nedelya1.jpg)
 
+PS: сюда будет добавлен Туториал по использованию удалённого репозитория
